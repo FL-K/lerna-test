@@ -31,5 +31,8 @@
     "react-test-renderer": "^16.13.1",
     "styled-components": "^5.0.1",
     "webpack": "^4.42.1"
+  },
+  "dependencies": {
+    "@flaconi/dandy-components-library": "0.0.1-alpha.81"
   }
 }
